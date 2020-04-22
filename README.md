@@ -1,6 +1,6 @@
 # lock
 
-
+<pre>
 cls 
 @ECHO OFF 
 title Folder Private 
